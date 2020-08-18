@@ -1,1 +1,1 @@
-# dccclist
+# bot-list-lozbey
